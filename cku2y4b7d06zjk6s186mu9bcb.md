@@ -253,8 +253,8 @@ Now let's create the Read, Update and Delete endpoints. Below the definition of 
 ```
 /ideas/{ideaId}:
     get:
-      summary: List all ideas
-      description: Retrieves a list of all the ideas available
+      summary: Gets an idea
+      description: Retrieves an idea requested by its id
       tags:
        - ideas
       parameters:
