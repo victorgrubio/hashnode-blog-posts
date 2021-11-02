@@ -14,7 +14,7 @@ Some of you may feel identified by these sentences. I will try to explain to you
 > ## Writing makes me learn better!
 
 ---
-# Traditional learning methods SUCKS!
+# Traditional learning methods SUCK!
 
 As someone that comes from college here in Spain, I had to learn tons of things in a small amount of time. When the tests came, I could find myself with 8 exams in 4 days. This is Telecommunications Engineering we are talking about. Not an easy thing.
 
